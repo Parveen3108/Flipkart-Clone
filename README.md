@@ -13,10 +13,10 @@ It helps in understanding **React components**, **routing**, and **responsive UI
 ---
 🌐 Live Demo
 🔗 Live Website:
-https://parveen3108.github.io/Personal-Portfolio/
+https://parveen3108.github.io/Flipkart-Clone/
 
 📂 Repository Link:
-https://github.com/Parveen3108/Personal-Portfolio
+https://github.com/Parveen3108/Flipkart-Clone
 ---
 
 ## ✨ Features
