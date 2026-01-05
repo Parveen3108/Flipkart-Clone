@@ -11,6 +11,13 @@ The Flipkart Clone demonstrates how a real-world e-commerce website works, inclu
 It helps in understanding **React components**, **routing**, and **responsive UI design**.
 
 ---
+🌐 Live Demo
+🔗 Live Website:
+https://parveen3108.github.io/Personal-Portfolio/
+
+📂 Repository Link:
+https://github.com/Parveen3108/Personal-Portfolio
+---
 
 ## ✨ Features
 
